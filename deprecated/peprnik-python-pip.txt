@@ -1,0 +1,13 @@
+pip install --upgrade --user pip
+
+put into ~/.bashrc
+export PATH=$HOME/.local/bin:$PATH
+export PYTHONPATH=$HOME/.local/lib/python2.7/site-packages:$PYTHONPATH
+
+source .bashrc
+
+pip install --user SpeechRecognition gTTs googletrans pygame
+
+pip install --upgrade --user six
+
+pip install --user urllib3
