@@ -4,6 +4,10 @@
 
 During course A6M33KSY in 2018 at CTU
 
+# Demo
+
+https://www.youtube.com/watch?v=zZAV2IdTwBw
+
 # Install
 
 Run pip install into user folder directly from OpenNAO OS using ssh
